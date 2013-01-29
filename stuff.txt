@@ -1,0 +1,13 @@
+torso
+shoulders
+head
+neck
+hands
+waist
+feet
+bracers
+legs
+mainHand
+offHand
+rightFinger
+leftFinger
